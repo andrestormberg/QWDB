@@ -1,28 +1,31 @@
 # Table of contents
 
-* [Deutsch](README.md)
-  * [Account Verwaltung](DE/Account-Verwaltung.md)
-  * [Changelog für das Deployment auf Demo und Production](DE/Changelog_f%C3%BCr_das_Deployment_auf_Demo_und_Production.md)
-  * [Die drei Modi der Achsenkonfiguration](DE/Die_drei_Modi_der_Achsenkonfiguration.md)
-  * [Eingabefähigkeit im Datencube](DE/Eingabef%C3%A4higkeit_im_Datencube.md)
-  * [Formulardefinitionen exportieren und importieren](DE/Formulardefinitionen_exportieren_und_importieren.md)
-  * [Formulare Navigation für den Planer fixieren](DE/Formulare_Navigation_f%C3%BCr_den_Planer_fixieren.md)
-  * [Formulare mit verschachtelten Ebenen](DE/Formulare_mit_verschachtelten_Ebenen.md)
-  * [Formularkonfigurationen](DE/Formularkonfigurationen.md)
-  * [Grid Formatierung](DE/Grid_Formatierung.md)
-  * [Ihr Einstieg in QVANTUM Video-Tutorial](DE/Ihr_Einstieg_in_QVANTUM_Video-Tutorial.md)
-  * [Schneller Einstieg](DE/Schneller_Einstieg.md)
-  * [Systemeinstellungen](DE/Systemeinstellungen.md)
-  * [Übersicht über den Tab Daten](DE/Daten/%C3%9Cbersicht_%C3%BCber_den_Tab_Daten.md)
-  * [Glossar: Alle relevanten Begriffe rund um den Datencube auf einen Blick](DE/Modell/Glossar_Alle_relevanten_Begriffe_rund_um_den_Datencube_auf_einen_Blick.md)
-  * [Übersicht über den Tab Modell](DE/Modell/%C3%9Cbersicht_%C3%BCber_den_Tab_Modell.md)
-  * [Rechenoperationen und Formelsyntax](DE/Modell/Formelmanager/Rechenoperationen_und_Formelsyntax.md)
-  * [Segmente und Kennzahlenformeln](DE/Modell/Formelmanager/Segmente_und_Kennzahlenformeln.md)
-  * [Authentifizierung über SSO](DE/Team/Authentifizierung_%C3%BCber_SSO.md)
-  * [Guide: Nutzerberechtigungen vergeben](DE/Team/Guide_Nutzerberechtigungen_vergeben.md)
-  * [Übersicht über den Tab Team](DE/Team/%C3%9Cbersicht_%C3%BCber_den_Tab_Team.md)
-  * [Berechtigungen für verschachtelte Ebenen](DE/Team/Nutzer-Berechtigungen/Berechtigungen_f%C3%BCr_verschachtelte_Ebenen.md)
-  * [Nutzer-Berechtigungen in QVANTUM definieren](DE/Team/Nutzer-Berechtigungen/Nutzer-Berechtigungen_in_QVANTUM_definieren.md)
+## Arbeiten mit Formularen
+- [Suche innerhalb einer Dimension](Arbeiten_mit_Formularen/Suche_innerhalb_einer_Dimension.md)
+- [Verteilmöglichkeiten in verschachtelten Ebenen](Arbeiten_mit_Formularen/Verteilmöglichkeiten_in_verschachtelten_Ebenen.md)
+- [Zahlformatierungen](Arbeiten_mit_Formularen/Zahlformatierungen.md)
+- [Zellfunktionen](Arbeiten_mit_Formularen/Zellfunktionen.md)
 
-* [English](english/README.md)
-  * [Another Page](english/another-page.md)
+## Daten
+- [Übersicht über den Tab Daten](Daten/Übersicht_über_den_Tab_Daten.md)
+
+## Formulare
+### Formulare anlegen
+- [Formulare anlegen und erweitern](Formulare/Formulare_anlegen/Formulare_anlegen_und_erweitern.md)
+- [Übersicht über den Tab Formulare](Formulare/Formulare_anlegen/Übersicht_über_den_Tab_Formulare.md)
+
+## Modell
+### Arbeiten mit der Modellvorlage
+- [Arbeiten mit der Modellvorlage](Modell/Arbeiten_mit_der_Modellvorlage/Arbeiten_mit_der_Modellvorlage.md)
+- [Bearbeiten des Modells in Qvantum](Modell/Arbeiten_mit_der_Modellvorlage/Bearbeiten_des_Modells_in_Qvantum.md)
+
+### Formelmanager
+- [Rechenoperationen und Formelsyntax](Modell/Formelmanager/Rechenoperationen_und_Formelsyntax.md)
+- [Segmente und Kennzahlenformeln](Modell/Formelmanager/Segmente_und_Kennzahlenformeln.md)
+- [Glossar](Modell/Formelmanager/Glossar_Alle_relevanten_Begriffe_rund_um_den_Datencube_auf_einen_Blick.md)
+- [Übersicht über den Tab Modell](Modell/Formelmanager/Übersicht_über_den_Tab_Modell.md)
+
+## Qvantum für Planer
+- [Eingabe in Formularen](Qvantum_für_Planer/Eingabe_in_Formularen.md)
+- [Erste Schritte vor der Planung](Qvantum_für_Planer/Erste_Schritte_vor_der_Planung.md)
+- [Formulare - Seitenaufbau](Qvantum_für_Planer/Formulare_-_Seitenaufbau.md)
