@@ -3,7 +3,7 @@
 ## Arbeiten mit Formularen
 - [Suche innerhalb einer Dimension](DE/Arbeiten_mit_Formularen/Suche_innerhalb_einer_Dimension.md)
 - [Verteilmöglichkeiten in verschachtelten Ebenen](DE/Arbeiten_mit_Formularen/Verteilmöglichkeiten_in_verschachtelten_Ebenen.md)
-- [Zahlformatierungen](DE/Arbeiten_mit_Formularen/Zahlformatierungen.md)
+- [Zahlformatierungen](Arbeiten_mit_Formularen/Zahlformatierungen.md)
 - [Zellfunktionen](DE/Arbeiten_mit_Formularen/Zellfunktionen.md)
 
 ## Daten
