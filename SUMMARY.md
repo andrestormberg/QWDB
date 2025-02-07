@@ -1,6 +1,6 @@
-# Summary
+# Table of contents
 
-- [Deutsch](de/index.md)
-  - [Weitere Seite](de/weitere-seite.md)
-- [English](en/index.md)
-  - [Another Page](en/another-page.md)
+* [Deutsch](README.md)
+  * [Weitere Seite](deutsch/weitere-seite.md)
+* [English](english/README.md)
+  * [Another Page](english/another-page.md)
