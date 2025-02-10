@@ -7,7 +7,7 @@
 
 
 ```
-add<Zahl> addiert zur aktuellen Zahl in der Zelle den Wert <Zahl> dazu
+add<Zahl> addiert zur aktuellen Zahl in der Zelle den Wert <Zahl> dazu.
 ```
 
 Vorher:
